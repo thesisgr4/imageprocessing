@@ -1,0 +1,18 @@
+names:
+- Black band
+- Brown band
+- Gold band
+- Red band
+- Violet band
+- Yellow band
+- resistor_faulty
+nc: 7
+roboflow:
+  license: CC BY 4.0
+  project: components_detection
+  url: https://universe.roboflow.com/kyle-apiyh/components_detection/dataset/1
+  version: 1
+  workspace: kyle-apiyh
+test: ../test/images
+train: ../train/images
+val: ../valid/images
